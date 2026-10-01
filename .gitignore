@@ -1,0 +1,25 @@
+# Build outputs
+**/build/
+!**/src/**/build/
+.gradle/
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+captures/
+
+# Local config
+local.properties
+
+# OS / misc
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+node_modules/
+
+# Xcode
+xcuserdata/
+*.xcworkspace/xcuserdata/
+**/xcshareddata/WorkspaceSettings.xcsettings
