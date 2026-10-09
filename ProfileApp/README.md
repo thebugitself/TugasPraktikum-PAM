@@ -1,9 +1,9 @@
 # ProfileApp
 
 ## Screenshot
-<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/df9d2df9-74be-41eb-be21-cb6c017285dd" />
-<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/120feb3c-e6b9-4019-b533-acea08e561b0" />
-<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/782a6b75-76bf-4c38-ae63-b699af5df6f4" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/df9d2df9-74be-41eb-be21-cb6c017285dd" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/120feb3c-e6b9-4019-b533-acea08e561b0" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/782a6b75-76bf-4c38-ae63-b699af5df6f4" />
 
 
 **ProfileApp** adalah aplikasi manajemen profil interaktif berbasis **Kotlin Multiplatform (KMP)** & **Compose Multiplatform** yang mendukung platform **Android** dan **Desktop (JVM)**.
